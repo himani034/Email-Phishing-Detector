@@ -1,0 +1,9 @@
+Label,Email Content
+phishing,This is a phishing email. Do not click the link!
+safe,This is a safe email. It contains no harmful links.
+phishing,Your bank account has been compromised! Click here to secure it now.
+safe,This is an update on your subscription plan. You can ignore it.
+phishing,You’ve won a lottery! Claim your prize by clicking here.
+safe,Please review your recent transactions on the official bank website.
+phishing,We need your login credentials for security reasons.
+safe,This is your monthly newsletter with tips and updates.
